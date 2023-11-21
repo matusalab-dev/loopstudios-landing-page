@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-![Live preview for the Loopstudios landing page coding challenge](https://loopstudios-landing-page-au5.pages.dev)
+[Live preview for the Loopstudios landing page coding challenge](https://loopstudios-landing-page-au5.pages.dev)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
