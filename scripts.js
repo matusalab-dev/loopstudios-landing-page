@@ -31,7 +31,7 @@ closeBtn.addEventListener("click", () => {
   }
 });
 
-// // loop through the menu then add eventlisteners to each menu
+// loop through the menu then add event listeners to each menu
 navLinks.forEach((navLink) => {
   navLink.addEventListener("click", () => {
     if (navMobileList.classList.contains("show-mobile")) {
