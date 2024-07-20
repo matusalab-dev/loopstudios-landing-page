@@ -8,8 +8,8 @@
   --color-very-dark-gray: hsl(0, 0%, 41%);
 
   /* FONT FAMILY VARIABLES */
-  --font-family-primary: Josefin sans;
-  --font-family-secondary: "Alata", sans-serif;
+  --font-family-primary: "Josefin sans";
+  --font-family-secondary: Alata, sans-serif;
 
   /* .alata-regular {
     font-family: "Alata", sans-serif;
@@ -331,10 +331,14 @@ img {
   font-size: 1em;
   font-family: var(--font-family-secondary);
 }
+
+.nav__link--mobile {
+  font-family: var(--font-family-primary);
+  font-size: 1.3em;
+  font-weight: var(--font-weight-400);
+}
+
 @media screen and (max-width: 46.25em) {
-  .nav__link {
-    font-family: sans-serif;
-  }
 }
 .nav__link--footer {
   color: var(--color-white);
